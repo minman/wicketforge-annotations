@@ -17,7 +17,7 @@
     <name>WicketForge Annotations</name>
     <description>Annotations for the WicketForge plugin.</description>
 
-    <url>https://github.com/minman/wicketforge-annotations</url>
+    <url>https://github.com/wicketforge/wicketforge-annotations</url>
 
     <licenses>
         <license>
@@ -28,9 +28,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:https://github.com/minman/wicketforge-annotations.git</connection>
-        <developerConnection>scm:git:https:https://github.com/minman/wicketforge-annotations.git</developerConnection>
-        <url>https://github.com/minman/wicketforge-annotations</url>
+        <connection>scm:git:https://github.com/wicketforge/wicketforge-annotations.git</connection>
+        <developerConnection>scm:git:https:https://github.com/wicketforge/wicketforge-annotations.git</developerConnection>
+        <url>https://github.com/wicketforge/wicketforge-annotations</url>
       <tag>HEAD</tag>
   </scm>
 

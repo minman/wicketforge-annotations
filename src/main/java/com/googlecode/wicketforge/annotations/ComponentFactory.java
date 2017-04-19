@@ -21,10 +21,10 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * This Annotation is used by <a href="https://github.com/minman/wicketforge">WicketForge</a> to recognize
+ * This Annotation is used by <a href="https://github.com/wicketforge/wicketforge">WicketForge</a> to recognize
  * component factory methods.
  *
- * @see <a href="https://github.com/minman/wicketforge/wiki/Content#component-factory-methods">Online Documentation</a>
+ * @see <a href="https://github.com/wicketforge/wicketforge/wiki/Content#component-factory-methods">Online Documentation</a>
  */
 @Retention(RetentionPolicy.SOURCE)
 @Target(ElementType.METHOD)
